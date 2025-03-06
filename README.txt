@@ -1,3 +1,7 @@
+Live Project Deployment link
+https://cerebrascoder.com/p/384722
+![Image](https://github.com/user-attachments/assets/df69a2b4-aa31-4067-938b-9a856fa8fc45)
+
 # 🎨 Interactive Web Assignments 🌐  
 
 A collection of interactive web assignments, including a **Profile Card, Anagram Checker, Employee Management System, To-Do List, and Image Slider**. Built with **HTML, CSS, and JavaScript** using Bootstrap for styling.  
