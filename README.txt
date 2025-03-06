@@ -12,13 +12,13 @@ A collection of interactive web assignments, including a **Profile Card, Anagram
 ## 📸 Screenshots  
 
 ### 🏆 Profile Card  
-<img src="https://via.placeholder.com/600x300" alt="Profile Card" width="600">  
+<img src="https://cerebrascoder.com/p/384722" alt="Profile Card" width="600">  
 
 ### ✅ To-Do List  
-<img src="https://via.placeholder.com/600x300" alt="To-Do List" width="600">  
+<img src="https://cerebrascoder.com/p/384722" alt="To-Do List" width="600">  
 
 ### 🎞 Image Slider  
-<img src="https://via.placeholder.com/600x300" alt="Image Slider" width="600">  
+<img src="https://cerebrascoder.com/p/384722" alt="Image Slider" width="600">  
 
 ## 🛠 Tech Stack  
 - **Frontend**: HTML, CSS, Bootstrap  
